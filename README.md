@@ -1,5 +1,5 @@
 # PragmaticPassphrase
-Web-app for easily generating useful passphrases
+Single-page web-app for easily generating useful passphrases
 
 https://pragmatic-passphrase.anvil.app/
 
